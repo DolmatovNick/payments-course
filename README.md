@@ -1,2 +1,2 @@
-# payments-course
-Ecommpay payments course
+# Ecommpay payments course
+##  This is the init project
